@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "SimpleTransactionApp_EventsHandler": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
